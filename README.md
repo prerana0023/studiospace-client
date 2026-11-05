@@ -1,7 +1,7 @@
 # StudioSpace — Peer-to-Peer Creative Workspace & Production Studio Sharing Platform
 
-**Live Site:** https://YOUR-VERCEL-URL.vercel.app
-**Server Repo:** https://github.com/YOUR-USERNAME/studiospace-server
+**Live Site:**https://studiospace-client-tau.vercel.app
+**Server Repo:** https://github.com/prerana0023/studiospace-server
 
 ## Key Features
 - Hero slider, dynamic Featured Studios (top 6 by rating from MongoDB) and category browsing that pre-selects filters
